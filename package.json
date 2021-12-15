@@ -10,5 +10,8 @@
     "ecommerce"
   ],
   "author": "Sudarshan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
